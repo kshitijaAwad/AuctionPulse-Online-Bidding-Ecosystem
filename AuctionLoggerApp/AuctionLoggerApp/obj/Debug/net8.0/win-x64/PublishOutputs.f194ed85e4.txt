@@ -1,0 +1,3 @@
+D:\CDAC\Project2\Logger\AuctionLoggerApp\AuctionLoggerApp\bin\Debug\net8.0\win-x64\publish\AuctionLoggerApp.pdb
+D:\CDAC\Project2\Logger\AuctionLoggerApp\AuctionLoggerApp\bin\Debug\net8.0\win-x64\publish\LoggerLib.pdb
+D:\CDAC\Project2\Logger\AuctionLoggerApp\AuctionLoggerApp\bin\Debug\net8.0\win-x64\publish\AuctionLoggerApp.exe
